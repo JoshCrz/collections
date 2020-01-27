@@ -1,0 +1,11 @@
+C:\projects\collections\bin\Debug\netcoreapp3.1\collections.exe
+C:\projects\collections\bin\Debug\netcoreapp3.1\collections.deps.json
+C:\projects\collections\bin\Debug\netcoreapp3.1\collections.runtimeconfig.json
+C:\projects\collections\bin\Debug\netcoreapp3.1\collections.runtimeconfig.dev.json
+C:\projects\collections\bin\Debug\netcoreapp3.1\collections.dll
+C:\projects\collections\bin\Debug\netcoreapp3.1\collections.pdb
+C:\projects\collections\obj\Debug\netcoreapp3.1\collections.csprojAssemblyReference.cache
+C:\projects\collections\obj\Debug\netcoreapp3.1\collections.AssemblyInfoInputs.cache
+C:\projects\collections\obj\Debug\netcoreapp3.1\collections.AssemblyInfo.cs
+C:\projects\collections\obj\Debug\netcoreapp3.1\collections.dll
+C:\projects\collections\obj\Debug\netcoreapp3.1\collections.pdb
